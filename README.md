@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am Althea Nuqui, a dedicated student with a proficiency in coding and a specialized skill set in database management. I excel in addressing intricate problems and formulating sophisticated solutions. My journey in the technology world began when I enrolled in the Bachelor of Science in Information Technology program.
+I am Althea Nuqui, a dedicated student with a proficiency in coding and a specialized skill set in database management. I excel in addressing intricate problems and formulating sophisticated solutions. My journey in the tech world began when I enrolled in the Bachelor of Science in Information Technology program.
 
 ## Education
 
